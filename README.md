@@ -1,2 +1,8 @@
-# testselenium
+pip install -r requirements.txt - для установки зависимостей
+
+для проверки работы программы стоит использовать эти данные:
+ссылка на сайт: https://demoqa.com/login
+логин: SE
+пароль: 123456789@Wsd
+
 
